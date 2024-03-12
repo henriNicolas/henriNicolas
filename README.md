@@ -6,6 +6,8 @@
 
 ![Nicolas Github stats](https://github-readme-stats.vercel.app/api?username=henriNicolas&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriNicolas&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)    
+
 
 ## Tecnologias que estou adquirindo mais conhecimento :
 
@@ -17,3 +19,5 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />    
     <img align="center" alt="postgreeSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
+&layout=donut-vertical
+
