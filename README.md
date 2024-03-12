@@ -1,13 +1,14 @@
 
-### Olá! Eu sou Nicolas 👋
+## 👋 Olá! Seja bem vindo ao meu perfil do Github. 
+
+### Meu nome é Nicolas, mas pode me chamar de "Kenji".
+
+#### Um pouco sobre mim:
+
+Construi uma base sólida em atendimento ao público trabalhando na área de hotelaria e clinica hospitalar, atualmente em transição de carreira para á area de tecnologia. Cursando Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e buscando oportunidades para aplicar minhas técnicas e conhecimento adquiridos.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nhkenji/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-henrique-758710133)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriNicolas&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)    ![Nicolas Github stats](https://github-readme-stats.vercel.app/api?username=henriNicolas&show_icons=true&theme=dracula)
-
 
 ## Tecnologias que estou adquirindo mais conhecimento :
 
@@ -19,4 +20,9 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />    
     <img align="center" alt="postgreeSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriNicolas&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)    ![Nicolas Github stats](https://github-readme-stats.vercel.app/api?username=henriNicolas&show_icons=true&theme=dracula)
+
+
 
