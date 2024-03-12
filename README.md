@@ -5,7 +5,7 @@
 
 #### Um pouco sobre mim:
 
-Construi uma base sólida em atendimento ao público trabalhando na área de hotelaria e clinica hospitalar, atualmente em transição de carreira para á area de tecnologia. Cursando Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e buscando oportunidades para aplicar minhas técnicas e conhecimento adquiridos.
+Construí uma base sólida em atendimento ao público trabalhando na área de hotelaria e clinica hospitalar, atualmente em transição de carreira para á area de tecnologia. Cursando Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e buscando oportunidades para aplicar minhas técnicas e conhecimento adquiridos.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nhkenji/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-henrique-758710133)
