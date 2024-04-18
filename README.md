@@ -20,5 +20,8 @@ Construí uma base sólida em atendimento ao público trabalhando na área de ho
     <img align="center" alt="postgreeSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriNicolas&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)    ![Nicolas Github stats](https://github-readme-stats.vercel.app/api?username=henriNicolas&show_icons=true&theme=dracula)
+
 
 
