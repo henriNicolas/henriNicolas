@@ -24,5 +24,5 @@ Construí uma base sólida em atendimento ao público trabalhando na área de ho
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriNicolas&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)    ![Nicolas Github stats](https://github-readme-stats.vercel.app/api?username=henriNicolas&show_icons=true&theme=dracula)
 
-
-
+https://github.com/henriNicolas/henriNicolas/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/henriNicolas/henriNicolas/blob/output/github-contribution-grid-snake.gif)
